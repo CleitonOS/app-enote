@@ -8,6 +8,8 @@ body {
   justify-content: center;
   width: 100vw;
   min-height: 100vh;
+
+  background-color: white;
 }
 
 .todo-list {
