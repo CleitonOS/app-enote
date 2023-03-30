@@ -4,7 +4,7 @@
 Uma aplicação que utiliza JavaScript puro, onde é possível criar anotações, tarefas, definir a conclusão da tarefa ou remove-lás. Criado a partir de um curso da Alura, no qual pude aprender a manipular o DOM, componetizar o projeto e trabalhar com módulos.
 
 ## Apresentação do projeto
-<img src="./assets/screenshots/print_enote.png">
+<img src="projeto_inicial/assets/screenshots/print_enote.png">
 
 ## Sobre o desenvolvimento do projeto
 Durante o desenvolvimento pude aprimorar minhas habilidades de Front-End utilizando principalmente HTML semântico, EMMET/ CSS, FlexBox, Media-Queries/ Javascript.
